@@ -127,6 +127,7 @@ body {
 }
 
 .highlights__topic {
+    font-size: 13px;
     color: var(--subtitle-color);
     font-family: var(--font-topic);
     font-weight: 400;
